@@ -1,18 +1,9 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+##  SENHA 
+- Crie uma classe senha que contenha um atributo de classe chamado senhaAtual e um atributo de instância chamado minhaSenha, ambos do tipo inteiro e ambos privados.
+- Crie ainda um método get para cada um destes atributos.
+- No construtor da classe senha, faça com que senhaAtual seja atribuído a minhaSenha e que em seguida incrementa o atributo de classe.
+-  crie uma classe Principal, onde deverá ser definido um vetor de objetos do tipo
+senha, de tamanho informado pelo usuário.
+-  De forma aleatória, instancie cada um dos objetos
+do vetor.
+-  Imprima o valor contido no atributo minhaSenha de cada objeto.
